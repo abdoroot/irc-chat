@@ -5,11 +5,8 @@ A simple IRC-like chat server and client built with Go.
 Setup
 
     Clone the Repo:
-
-    bash
-
-git clone https://github.com/abdoroot/irc-chat.git
-cd my-irc-app
+    git clone https://github.com/abdoroot/irc-chat.git
+    cd my-irc-app
 
 Build and Run:
 
